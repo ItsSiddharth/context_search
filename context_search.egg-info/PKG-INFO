@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: context-search
+Version: 0.0.1
+Summary: A search algorithm for efficient searching in PDFs
+Home-page: https://github.com/ItsSiddharth/context-search
+Author: Siddharth Menon
+Author-email: siddharth.menon1@gmail.com
+License: UNKNOWN
+Description: # context-search
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
