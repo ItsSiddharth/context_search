@@ -1,0 +1,7 @@
+README.md
+setup.py
+smart_search/__init__.py
+smart_search.egg-info/PKG-INFO
+smart_search.egg-info/SOURCES.txt
+smart_search.egg-info/dependency_links.txt
+smart_search.egg-info/top_level.txt

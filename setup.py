@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="context",
-    version="0.0.5",
+    name="smart_search",
+    version="0.0.3",
     author="Siddharth Menon",
     author_email="siddharth.menon1@gmail.com",
     description="A search algorithm for efficient searching in PDFs",
