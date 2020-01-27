@@ -1,16 +1,18 @@
 Metadata-Version: 2.1
 Name: smart-search
-Version: 0.0.3
+Version: 0.0.5
 Summary: A search algorithm for efficient searching in PDFs
 Home-page: https://github.com/ItsSiddharth/context_search
 Author: Siddharth Menon
 Author-email: siddharth.menon1@gmail.com
 License: UNKNOWN
-Description: <img src="./assets/icon.jpg" hieght="250" width="100" title="SKiP">
+Description: # Concept-Search
         
         [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ItsSiddharth/context_search/blob/master/LICENSE)   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
         
-        :arrows_counterclockwise: Context-Search is a tools designed to increase efficiency during your study hours.
+        ## For source code 
+        This the my <a href="https://github.com/ItsSiddharth/context_search">Github repo. </a>
+        Contact me for support and PRs are welcome.
         
         ## Usage 
         1. Pip install the package.

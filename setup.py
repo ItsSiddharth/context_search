@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="smart_search",
-    version="0.0.3",
+    version="0.0.5",
     author="Siddharth Menon",
     author_email="siddharth.menon1@gmail.com",
     description="A search algorithm for efficient searching in PDFs",

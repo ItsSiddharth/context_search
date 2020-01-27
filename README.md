@@ -1,8 +1,10 @@
-<img src="./assets/icon.jpg" hieght="250" width="100" title="SKiP">
+# Concept-Search
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ItsSiddharth/context_search/blob/master/LICENSE)   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
-:arrows_counterclockwise: Context-Search is a tools designed to increase efficiency during your study hours.
+## For source code 
+This the my <a href="https://github.com/ItsSiddharth/context_search">Github repo. </a>
+Contact me for support and PRs are welcome.
 
 ## Usage 
 1. Pip install the package.
@@ -12,6 +14,8 @@ $ pip3 install smart-search
 * **NOTE** : Please have the pickle file in the same folder as the python script in which you will use our pip package.
 
 > Here i use the <a href="http://nlp.stanford.edu/data/wordvecs/glove.6B.zip">glove.6B.zip</a> file from Standfords Github repository from the hyperlink.
+> Then pickled this model for easier loading. Download it from <a href="https://drive.google.com/file/d/1HJ8FWeEdWs0b_PinnS1VgXSNmaSCb-q7/view?usp=sharing
+">here</a>
 
 ## Syntax 
 1. Import the library.
@@ -31,6 +35,9 @@ $ pip3 install smart-search
 >> location[0:5] = perform_skip(pdf_list, input_word)
 ```
 5. You can use subprocesses library of python to navigate to the page if you want to.
+
+## Algorithm
+<img src="./assets/algo.jpeg" hieght="600" width="600" title="Model Summary">
 
 ## LICENSE
 <a href="https://github.com/ItsSiddharth/context_search/blob/master/LICENSE">MIT</a>
