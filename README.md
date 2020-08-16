@@ -32,7 +32,7 @@ $ pip3 install smart-search
 ```
 4. Pass this list to the model along with the word you want to get the search result of using the `perform_skip()` function. This accepts 2 variables, i.e the list produced by the previous function and the word you want to search for and retuns the top 5 relevant search locations of the word you searched for.
 ```
->> location[0:5] = perform_skip(pdf_list, input_word)
+>> location[0:5] = functioncaller.perform_skip(pdf_list, input_word)
 ```
 5. You can use subprocesses library of python to navigate to the page if you want to.
 
